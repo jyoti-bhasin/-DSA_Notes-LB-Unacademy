@@ -1,0 +1,9 @@
+1. Can I create custom header file  or custom library?
+2. Can we create our own namespace?
+3. What are other namespace available other than std ?
+4. Can we print without or other than using "<<"?
+5. Dry run how -11,-4,-8 and -5 will get stored in memory?
+4. Explore - Range of float, double , long, short.
+5. Explore how Bitwise operators work.
+6. Experiment, code, Play, Explore on code editor-Arithmetic Operator , Logical Operator, Relational Operator, Bitwise Operator.
+7. How << and >> (left shift and right shift) work on negative numbers?
