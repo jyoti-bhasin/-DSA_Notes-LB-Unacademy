@@ -1,1 +1,7 @@
-To be added in 5 minutes( tab tak notes check krlo )
+1. Can return type of main() be void?
+2. Why always only 0 is returned at the end of main()?
+3. Why there is no argument passed in main() ?
+4. Try 20 mcqs of pass by value from gfg, interview bit , etc . ( You can try here- https://www.geeksforgeeks.org/c-language-2-gq/functions-gq/ )
+5. Check if int arr[30] = {1} will initialize all array elements with 1?
+6. Explore about behind the scenes when we pass an array in a function parameter.
+7. Try the assignment questions on arrays (I have attached the pic of the questions in the folder).
